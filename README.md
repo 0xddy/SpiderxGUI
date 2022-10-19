@@ -1,4 +1,4 @@
-# spiderx-gui
+# Spiderx-GUI
 
 ## Project setup
 ```
