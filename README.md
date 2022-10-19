@@ -48,4 +48,12 @@ npm run serve
 npm run build
 ```
 
+### 3、截图
+
 ![](https://github.com/0xddy/SpiderxGUI/blob/master/screenshot/QQ截图20221019150345.png)
+
+![](https://github.com/0xddy/SpiderxGUI/blob/master/screenshot/QQ截图20221019150433.png)
+
+![](https://github.com/0xddy/SpiderxGUI/blob/master/screenshot/QQ截图20221019150514.png)
+
+![](https://github.com/0xddy/SpiderxGUI/blob/master/screenshot/QQ截图20221019150535.png)
