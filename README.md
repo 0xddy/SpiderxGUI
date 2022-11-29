@@ -15,7 +15,7 @@ export default {
      * 后端默认的图片存储目录是 当前目录/thumb/
      * 可以使用 Nginx 托管该路径对外提供文件
      */
-    thumbBaseUrl: "http://spiderx.novel4j.com",
+    thumbBaseUrl: "http://xxx.xxx.com",
     /**
      * 后端鉴权
      * 默认用户名密码：bookstore
